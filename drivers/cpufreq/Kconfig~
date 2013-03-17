@@ -477,7 +477,8 @@ config INTELLI_MAX_INACTIVE_FREQ
     default  806000
     help
       Set default max inactive frequency for intellidemand2
-
+=======
+>>>>>>> 4.1.B.0.621
 
 config CPU_FREQ_VDD_LEVELS
 	bool "CPU Vdd levels sysfs interface"
